@@ -1,0 +1,15 @@
+package:
+  name: exiv2
+  version: "0.25"
+
+source:
+  fn: exiv2-0.25.tar.gz
+  url: http://www.exiv2.org/exiv2-0.25.tar.gz
+  md5: 258d4831b30f75a01e0234065c6c2806
+
+build:
+  number: 0
+
+about:
+  home: http://www.exiv2.org/index.html
+  license: GPLv2
